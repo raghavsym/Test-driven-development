@@ -1,0 +1,49 @@
+[{
+    "category": "Beer",
+    "name": "Pilsner",
+    "range": {
+        "start": 4,
+        "end": 6
+    },
+    "currentTemperature": 5
+}, {
+    "category": "Beer",
+    "name": "IPA",
+    "range": {
+        "start": 5,
+        "end": 6
+    },
+    "currentTemperature": 6
+}, {
+    "category": "Beer",
+    "name": "Lager",
+    "range": {
+        "start": 4,
+        "end": 7
+    },
+    "currentTemperature": 4
+}, {
+    "category": "Beer",
+    "name": "Stout",
+    "range": {
+        "start": 6,
+        "end": 8
+    },
+    "currentTemperature": 7
+}, {
+    "category": "Beer",
+    "name": "Witbier",
+    "range": {
+        "start": 3,
+        "end": 5
+    },
+    "currentTemperature": 4
+}, {
+    "category": "Beer",
+    "name": "Pale Ale",
+    "range": {
+        "start": 4,
+        "end": 6
+    },
+    "currentTemperature": 5
+}]
